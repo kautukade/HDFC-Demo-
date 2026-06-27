@@ -1,0 +1,8 @@
+{
+  "name": "HDFC NetBanking Premium Demo",
+  "description": "A premium, plain HTML, CSS, and JavaScript interactive demo of HDFC NetBanking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
