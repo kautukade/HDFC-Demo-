@@ -1,6 +1,8 @@
 {
-  "name": "HDFC NetBanking Demo",
-  "description": "A highly professional, premium, and fully responsive HDFC Bank inspired demo login and dashboard interface built using HTML, CSS, and vanilla JavaScript.",
+  "name": "HDFC NetBanking Premium Demo",
+  "description": "A premium, plain HTML, CSS, and JavaScript interactive demo of HDFC NetBanking.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
